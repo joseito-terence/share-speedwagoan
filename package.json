@@ -1,0 +1,21 @@
+{
+  "name": "share-speedwagoan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "alphatesters.bca@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.5.0",
+    "isbot": "^3.0.26"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
