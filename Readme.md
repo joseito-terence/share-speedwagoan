@@ -1,11 +1,11 @@
 # share-speedwagoan
 
-Since, a react app created with CRA is client-side rendered and doesn't support link previews. This server generates an html page with the required meta tags.\
+Since, a react app created with CRA is client-side rendered and doesn't support link previews. This server generates an html page with the required meta tags.
 
 ## Working
 * If user-agent is a bot:\
 This server will create an html page with the required meta tags for Open Graph Protocol and Twitter bot.\
-Thus, enabling link previews. \
+Thus, enabling link previews. 
 * If the user-agent is not a bot:\
 The server will redirect user to the actuall product page.
 
@@ -13,7 +13,7 @@ The server will redirect user to the actuall product page.
 [https://share-speedwagoan.herokuapp.com/](https://share-speedwagoan.herokuapp.com/)
 
 ## End-point
-`GET /product/:productId`
+### `GET /product/:productId`
 
 ProductId of the product being shared.
 
