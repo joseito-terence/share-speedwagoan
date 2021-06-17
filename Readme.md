@@ -9,7 +9,7 @@ Thus, enabling link previews.
 * If the user-agent is not a bot:\
 The server will redirect user to the actuall product page.
 
-## URL
+## Base URL
 [https://share-speedwagoan.herokuapp.com/](https://share-speedwagoan.herokuapp.com/)
 
 ## End-point
@@ -28,6 +28,9 @@ Following are the major frameworks and libraries used to build this project.
 ## Run Locally
 
 To get a local copy up and running follow these simple example steps.
+
+## Link Preview (from [Metatags.io](https://metatags.io/))
+![Link Previews from Metatags.io](./screenshots/link_previews_metatags_io.png)
 
 ### Installation
 
