@@ -25,12 +25,12 @@ Following are the major frameworks and libraries used to build this project.
 * [isBot](https://www.npmjs.com/package/isbot?activeTab=readme) (For user-agent identification)
 
 
+## Link Preview (from [Metatags.io](https://metatags.io/))
+![Link Previews from Metatags.io](./screenshots/link_previews_metatags_io.png)
+
 ## Run Locally
 
 To get a local copy up and running follow these simple example steps.
-
-## Link Preview (from [Metatags.io](https://metatags.io/))
-![Link Previews from Metatags.io](./screenshots/link_previews_metatags_io.png)
 
 ### Installation
 
